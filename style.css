@@ -3,14 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
    display: flex;
    align-items: center;
    justify-content: center;
-   background-color: rgba(26, 26, 182, 0.904);
+   margin-top: 100PX;
+   background-color: rgba(75, 75, 218, 0.904);
    flex-wrap: wrap;
   
 }
+
 .conteiner{
     max-width: 900px;
     width: 100%;
